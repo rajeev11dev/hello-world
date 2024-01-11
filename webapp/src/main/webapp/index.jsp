@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>User Registration - Ansible..</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>User Registration - Deploy through ansible
+    <p>PleasAnsible..</h1>e fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -32,6 +32,4 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-
-  
 </form>
