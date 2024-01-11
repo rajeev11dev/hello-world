@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>User Registration - Deploy through ansible
+    <h1>User Registration
     <p>PleasAnsible..</h1>e fill in this form to create an account.</p>
     <hr>
      
